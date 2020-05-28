@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "527fc5e4-9b79-43e8-ad42-d2857e41a346"
+	},
+	"author": "Tsuyoshi Higuchi",
+	"dependencies": {
+		"@framer/framer.default": "^1.71.0"
+	}
+}
