@@ -1,0 +1,2 @@
+# try_importing_submodule_on_framer
+Framer Desktop（or X）でフロントエンドのリポジトリをsubmoduleしてどうなるかのテスト用Framer側のリポジトリ
