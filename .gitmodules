@@ -1,3 +1,6 @@
 [submodule "implement"]
 	path = implement
 	url = git@github.com:tyshgc/try_framer_with_submodule.git
+[submodule "design.framerfx/try_framer_with_submodule"]
+	path = design.framerfx/try_framer_with_submodule
+	url = git@github.com:tyshgc/try_framer_with_submodule.git
